@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: blueviolet;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+    border: 1px solid white;
+    color: lightblue;
+    font-size: 25px;
+    border-radius: 5px;
+    margin: 0 5px; 
+}
+
+.score {
+    font-size: 70px;
+    background-color: black;
+    color: red;
+    width: 150px;
+    margin: 30px;
+    border-radius: 5px;
+    padding: 10px; 
+}
+
+h3 {
+    font-size: 30px;
+    color: white;
+}
