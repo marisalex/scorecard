@@ -1,6 +1,6 @@
 let homeScore = document.getElementById("home-score")
 let guestScore = document.getElementById("guest-score")
-score = 0
+let score = 0
 
 // Home Score//
 function home1() {
